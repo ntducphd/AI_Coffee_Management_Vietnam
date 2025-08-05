@@ -15,21 +15,6 @@ This open-source project brings together advanced analytics with ground-level im
 
 ---
 
-## 🧭 Project Structure
-AI_Coffee_Management_Vietnam/
-│
-├── data/                   # Sample datasets (ground truth, Sentinel, weather, etc.)
-├── notebooks/              # Jupyter notebooks for development and analysis
-├── scripts/                # Modular Python scripts (GEE, ML models, visualization)
-├── models/                 # Trained model weights, configs, export files
-├── Figures/                # Outputs: maps, charts, PCA, accuracy plots
-│
-├── requirements.txt        # Python dependencies
-├── README.md               # Project introduction and usage
-├── LICENSE                 # License (e.g., MIT)
-└── .gitignore              # Files to ignore during version control
-
----
 
 ## 🔍 Key Features
 
