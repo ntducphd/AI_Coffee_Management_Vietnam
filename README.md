@@ -1,5 +1,4 @@
-# ☕️ AI_Coffee_Management_Vietnam
-
+# ☕️ AI-Smart Coffee Management
 ## 📘 Introduction
 
 Vietnam is one of the world's leading coffee producers, especially renowned for **Robusta**. However, smallholder farmers in regions like **Đắk Lắk** face growing challenges from climate change, pests, yield instability, and limited access to precision agriculture. This project aims to leverage **Artificial Intelligence (AI)**, **Remote Sensing**, and **Machine Learning (ML)** to support sustainable coffee production in Vietnam.
