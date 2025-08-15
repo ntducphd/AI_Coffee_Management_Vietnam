@@ -21,7 +21,6 @@ This open-source project brings together advanced analytics with ground-level im
 - 📈 Vegetation indices, evapotranspiration, stress and phenology tracking
 - 🧠 Machine learning models: classification, yield prediction, anomaly detection
 - 💻 Compatible with **Google Earth Engine**, **QGIS**, and local deployment
-- 📊 PCA and model comparison with exportable visuals and reports
 
 ---
 
